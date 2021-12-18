@@ -1,0 +1,18 @@
+.navLink {
+  text-decoration: none;
+  padding: 16px 20px;
+  color: white;
+}
+
+.navLink:visited {
+  color: white;
+}
+
+.active {
+  border-bottom: 2px white solid;
+}
+
+.disabled {
+  color: grey;
+  border-bottom: none;
+}
